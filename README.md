@@ -8,7 +8,7 @@ An open-source 3D-printed startracker. Computer Vision + ML capabilities for aut
 OpenStartracker is a project dedicated to providing a lower-cost, open-source, machine-learning compatible solution to long-exposure astrophotography.
 
 ### How does it work?
-Typically, long-exposure astrophotography solutions for DSLR camera (sold for >$300) work by rotating at exactly the speed of the earth's rotation about the polar axis. [This video]() explains the math behind this rotation very intuitively. However, in order for this rotation to properly compensate for earth's rotation, it has to first be aligned with the polar axis (about polaris), which is based on your latitude. 
+Typically, long-exposure astrophotography solutions for DSLR camera (sold for >$300) work by rotating at exactly the speed of the earth's rotation about the polar axis. [This video](https://www.youtube.com/watch?v=WpmGi8DHu4c) explains the math behind this rotation very intuitively. However, in order for this rotation to properly compensate for earth's rotation, it has to first be aligned with the polar axis (about polaris), which is based on your latitude. 
 
 This latitude alignment is usually _manually_ done via an equatorial mount, which just points the rotating base up at the north star. Given that latitude can be easily derived from gps location, I wanted to motorize + automate this latitude alignment as well using an iOS application + IMU sensor embedded in the design.
 
