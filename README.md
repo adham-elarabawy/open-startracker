@@ -1,8 +1,9 @@
-# open-startracker
+# OpenStartracker
 An open-source 3D-printed startracker. Computer Vision + ML capabilities for automatic latitude calibration, polaris alignment, &amp; object tracking. 
 
 <p align="center"><img src="https://github.com/adham-elarabawy/open-startracker/blob/main/media/animation.gif" alt="drawing" width="200"/><img src="https://github.com/adham-elarabawy/open-startracker/blob/main/media/startracker.png" alt="drawing" width="201"/></p>
 
+**You can find my project page for OpenStartracker [on my portfolio website](https://www.adham-e.dev/project/openstartracker).**
 
 ## What is this?
 OpenStartracker is a project dedicated to providing a lower-cost, open-source, machine-learning compatible solution to long-exposure astrophotography.
