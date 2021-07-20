@@ -10,7 +10,7 @@ OpenStartracker is a project dedicated to providing a lower-cost, open-source, m
 ### How does it work?
 Typically, long-exposure astrophotography solutions for DSLR camera (sold for >$300) work by rotating at exactly the speed of the earth's rotation about the polar axis. [This video]() explains the math behind this rotation very intuitively. However, in order for this rotation to properly compensate for earth's rotation, it has to first be aligned with the polar axis (about polaris), which is based on your latitude. 
 
-This latitude alignment is usually _manually_ done via an equatorial mount, which just points the rotating base up at the north star. Given that latitude can be easily derived from gps location, I wanted to motorize + automate this latitude alignment as well using an iOS applicatino + IMU sensor embedded in the design.
+This latitude alignment is usually _manually_ done via an equatorial mount, which just points the rotating base up at the north star. Given that latitude can be easily derived from gps location, I wanted to motorize + automate this latitude alignment as well using an iOS application + IMU sensor embedded in the design.
 
 ## Current Status
 I am currently done with the mechanical design of the upper stage of the startracker, which is responsible for matching the speed of the earth's rotation to keep the stars in focus.
