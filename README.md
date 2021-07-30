@@ -27,9 +27,11 @@ To conclude:
 - [x] Upper Stage Mechanical Design
 - [ ] Lower Stage Mechanical Design
 - [x] Electronics planning
-- [ ] Low-Level Motor Control Code
-- [ ] High-Level iOS application + bluetooth interface
+- [x] Low-Level Motor Control Code
+- [x] High-Level iOS application + bluetooth interface
 - [ ] DSLR interface API
+- [ ] CV polaris alignment functionality
+
 
 ## Mechanical Design
 You can get access to the open-source mechanical design [via OnShape](https://cad.onshape.com/documents/eb5985eb85492b87b2d7116d/w/8a4f6561f5f12bc6eb17cdf7/e/3c6ea5c35ddcd26be48681a4), which I designed this project on.
